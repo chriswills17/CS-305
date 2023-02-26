@@ -27,3 +27,7 @@ As mentioned before, using OWASP will be helpful in the future. Learning how to 
 Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
 
 Aside from sharing the knowledge learned from this course verbally, I think most companies like to have a small coding test provided to demonstrate skills. Whether it's focused for software security or not, I think implementing encryption and secure client/server properties into any type of code is likely to impress employers and show them I am serious about security at any levels.
+
+
+References
+Jena, B. K. (2022, November 15). What Is Software Security and What Makes It So Important Now? Simplilearn.com. https://www.simplilearn.com/tutorials/cyber-security-tutorial/what-is-software-security
